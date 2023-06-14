@@ -1,0 +1,25 @@
+{
+  "first":
+  [{
+    "id":1,
+    "name":"sanjay",
+    "phone":7999029856,
+    "address":"narmada road rau",
+    "age":22
+}],
+"secound":[{
+"id":2,
+"name":"mohit",
+"phone":7999029856,
+"address":"narmada road rau",
+"age":23
+}],
+"theard":[{
+  "id":3,
+"name":"sanjay",
+"phone":7999029856,
+"address":"narmada road rau",
+"age":22
+
+}]
+}
